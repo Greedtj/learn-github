@@ -1,1 +1,2 @@
-# learn-github
+# Hi I'm Thanawat Janmool
+***Newbie Programmer***
